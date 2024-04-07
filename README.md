@@ -1,4 +1,4 @@
-# Dynamic-Excel-Dashboard-for-Sales
+# Dynamic Excel Dashboard for Sales Project
 Interactive sales dashboard designed in Excel for B2C type of Businesses using Slicers, Pivot Tables &amp; Pivot Chart.
 
 There are 4 sheets within the Excel Workbook-
